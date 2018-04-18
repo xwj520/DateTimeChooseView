@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DateTimeChooseView</string>
+
+    <!-- 消除警告，可忽略 -->
+    <string name="d">图片描述</string>
+    <!-- DateTimePickerActivity -->
+    <string name="tip_dt1">日期</string>
+    <string name="tip_dt2">时间</string>
+</resources>

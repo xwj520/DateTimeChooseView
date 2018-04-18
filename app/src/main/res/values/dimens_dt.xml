@@ -1,0 +1,18 @@
+<resources>
+    <!-- 标题字号、主界面菜单字号、底部菜单字号 -->
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="size_18">18sp</dimen>
+    <!-- 长文本 -->
+    <dimen name="size_16">16sp</dimen>
+    <!-- 短文本 、注释 -->
+    <dimen name="size_14">14sp</dimen>
+    <!-- 标注 -->
+    <dimen name="size_12">12sp</dimen>
+    <!-- 标签用字 -->
+    <dimen name="size_10">10sp</dimen>
+    <dimen name="size_8">8sp</dimen>
+    <dimen name="size_6">6sp</dimen>
+    <!-- 日期选择控件使用 -->
+    <dimen name="selected_date_day_size">75dip</dimen>
+
+</resources>

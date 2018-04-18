@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color> <!-- 纯白色(主页背景色) -->
+    <color name="w_c1">#333333</color>
+    <!-- （中灰色）用于普通级文字、引导词如昵称、弹出文案、查看更多等 -->
+    <color name="w_c2">#666666</color>
+    <!-- 小文字颜色（浅灰色）用于辅助、次要的文字信息、普通按钮描边 -->
+    <color name="w_c3">#939393</color>
+    <color name="orange">#FF6633</color> <!-- 橘色 -->
+
+</resources>
